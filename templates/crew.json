@@ -1,0 +1,22 @@
+{
+    "crew_members": [
+        {
+            "name": "John",
+            "surname": "Doe",
+            "photo": "john_doe.jpg",
+            "specialties": ["Engineer", "Pilot"]
+        },
+        {
+            "name": "Alice",
+            "surname": "Smith",
+            "photo": "alice_smith.jpg",
+            "specialties": ["Scientist", "Doctor"]
+        },
+        {
+            "name": "Bob",
+            "surname": "Johnson",
+            "photo": "bob_johnson.jpg",
+            "specialties": ["Navigator", "Mechanic"]
+        }
+    ]
+}
